@@ -6,9 +6,9 @@ import utils.Consts;
 import java.io.IOException;
 
 /**
- * Arkanoid game main class.
+ * Space Invaders game main class.
  */
-public class Ass7Game {
+public class Main {
 
     /**
      * Runs the game.
